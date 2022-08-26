@@ -1,0 +1,12 @@
+In this final project, there was everything that was taught in the course. It consists of the function overloading,
+class inheritance, operator functions, abstract class, virtual functions, pure virtual functions, file handling, how
+to allocate and deallocate dynamic memory. The project was divided into 5 milestones, in every milestone, there was
+a new concept including all the previous concepts. Overall the project was a good exercise to revise everything from
+the course. In ms5 there was a final class PreTriage which had a lineup where the data of every patient was stored
+whether it was from standard input(cin) or a .csv file. Then it calculates and prints the average waiting time
+for the patients and at the end of the program stores the registered patients in the data file. Other than that there
+was also an admit option, which admits the patient from the lineup, by printing the patient to standard output(cout)
+and deleting that patient from the lineup using the provided function (removeDynamicElement()). I faced some issues
+before as I was using the temporary objects on static memory, but later with the help of dynamic memory allocation,
+the problem was solved. Overall, the project helped me to learn new things and also helped to know how to implement
+the knowledge that have been taught in the course.
